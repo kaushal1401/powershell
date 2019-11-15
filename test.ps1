@@ -1,2 +1,2 @@
 
-invoke-item "C:\Program Files\Notepad++\notepad++.exe"
+echo "hello ,world" >c:\test\hello.txt
